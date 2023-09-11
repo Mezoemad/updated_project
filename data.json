@@ -1,0 +1,328 @@
+[
+  {
+    "id": "c",
+    "name": "c",
+    "password": "c",
+    "phone": "c",
+    "mail": "c",
+    "gender": "c",
+    "age": "c",
+    "governorate": "c"
+  },
+  {
+    "id": "c",
+    "name": "c",
+    "password": "c",
+    "phone": "c",
+    "mail": "c",
+    "gender": "c",
+    "age": "c",
+    "governorate": "c"
+  },
+  {
+    "id": "g",
+    "name": "g",
+    "password": "g",
+    "phone": "g",
+    "mail": "g",
+    "gender": "g",
+    "age": "g",
+    "governorate": "gg"
+  },
+  {
+    "id": "xz",
+    "name": "xz",
+    "password": "xz",
+    "phone": "xz",
+    "mail": "xzx",
+    "gender": "xz",
+    "age": "xz",
+    "governorate": "xz"
+  },
+  {
+    "id": "",
+    "name": "",
+    "password": "",
+    "phone": "",
+    "mail": "",
+    "gender": "",
+    "age": "",
+    "governorate": ""
+  },
+  {
+    "id": "c",
+    "name": "c",
+    "password": "c",
+    "phone": "c",
+    "mail": "cc",
+    "gender": "c",
+    "age": "c",
+    "governorate": "c"
+  }
+  ,{
+    "name": "shoes",
+    "price": 200,
+    "model_year": 2023,
+    "brand": "adidas",
+    "category": "fashion"
+  },
+  {
+    "name": "pants",
+    "price": 250,
+    "model_year": 2020,
+    "brand": "H&M",
+    "category": "fashion"
+  },
+  {
+    "name": "story",
+    "price": 50,
+    "model_year": 2023,
+    "brand": "Alshrouq",
+    "category": "books"
+  },
+  {
+    "name": "science_book",
+    "price": 100,
+    "model_year": 2022,
+    "brand": "Dawen",
+    "category": "books"
+  },
+  {
+    "name": "novel",
+    "price": 150,
+    "model_year": 2016,
+    "brand": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0643\u062a\u0628",
+    "category": "books"
+  },
+  {
+    "name": "racket",
+    "price": 60,
+    "model_year": 2022,
+    "brand": "ssss",
+    "category": "sports"
+  },
+  {
+    "name": "rope",
+    "price": 30,
+    "model_year": 2021,
+    "brand": "hhhh",
+    "category": "sports"
+  },
+  {
+    "name": "karate suit",
+    "price": 200,
+    "model_year": 2020,
+    "brand": "uuuuuu",
+    "category": "sports"
+  },
+  {
+    "name": "washing machine",
+    "price": 2000,
+    "model_year": 2022,
+    "brand": "Toshiba",
+    "category": "electronics"
+  },
+  {
+    "name": "refrigetator",
+    "price": 3000,
+    "model_year": 2020,
+    "brand": "Fresh",
+    "category": "electronics"
+  },
+  {
+    "name": "TV",
+    "price": 4000,
+    "model_year": 2021,
+    "brand": "Samsung",
+    "category": "electronics"
+  },
+  {
+    "name": "hand blender",
+    "price": 1000,
+    "model_year": 2018,
+    "brand": "Fresh",
+    "category": "appliances"
+  },
+  {
+    "name": "air frier",
+    "price": 5000,
+    "model_year": 2023,
+    "brand": "Philips",
+    "category": "appliances"
+  },
+  {
+    "name": "pan",
+    "price": 100,
+    "model_year": 2023,
+    "brand": "tefal",
+    "category": "appliances"
+  },
+  {
+    "name": "shirt",
+    "price": 150,
+    "model_year": 2021,
+    "brand": "zara",
+    "category": "fashion"
+  },
+  {
+    "name": "shoes",
+    "price": 200,
+    "model_year": 2023,
+    "brand": "adidas",
+    "category": "fashion"
+  },
+  {
+    "name": "pants",
+    "price": 250,
+    "model_year": 2020,
+    "brand": "H&M",
+    "category": "fashion"
+  },
+  {
+    "name": "story",
+    "price": 50,
+    "model_year": 2023,
+    "brand": "Alshrouq",
+    "category": "books"
+  },
+  {
+    "name": "science_book",
+    "price": 100,
+    "model_year": 2022,
+    "brand": "Dawen",
+    "category": "books"
+  },
+  {
+    "name": "novel",
+    "price": 150,
+    "model_year": 2016,
+    "brand": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0643\u062a\u0628",
+    "category": "books"
+  },
+  {
+    "name": "racket",
+    "price": 60,
+    "model_year": 2022,
+    "brand": "ssss",
+    "category": "sports"
+  },
+  {
+    "name": "rope",
+    "price": 30,
+    "model_year": 2021,
+    "brand": "hhhh",
+    "category": "sports"
+  },
+  {
+    "name": "karate suit",
+    "price": 200,
+    "model_year": 2020,
+    "brand": "uuuuuu",
+    "category": "sports"
+  },
+  {
+    "name": "washing machine",
+    "price": 2000,
+    "model_year": 2022,
+    "brand": "Toshiba",
+    "category": "electronics"
+  },
+  {
+    "name": "refrigetator",
+    "price": 3000,
+    "model_year": 2020,
+    "brand": "Fresh",
+    "category": "electronics"
+  },
+  {
+    "name": "TV",
+    "price": 4000,
+    "model_year": 2021,
+    "brand": "Samsung",
+    "category": "electronics"
+  },
+  {
+    "name": "hand blender",
+    "price": 1000,
+    "model_year": 2018,
+    "brand": "Fresh",
+    "category": "appliances"
+  },
+  {
+    "name": "air frier",
+    "price": 5000,
+    "model_year": 2023,
+    "brand": "Philips",
+    "category": "appliances"
+  },
+  {
+    "name": "pan",
+    "price": 100,
+    "model_year": 2023,
+    "brand": "tefal",
+    "category": "appliances"
+  },
+  {
+    "name": "shirt",
+    "price": 150,
+    "model_year": 2021,
+    "brand": "zara",
+    "category": "fashion"
+  },
+  {
+    "name": "shoes",
+    "price": 200,
+    "model_year": 2023,
+    "brand": "adidas",
+    "category": "fashion"
+  },
+  {
+    "name": "pants",
+    "price": 250,
+    "model_year": 2020,
+    "brand": "H&M",
+    "category": "fashion"
+  },
+  {
+    "name": "story",
+    "price": 50,
+    "model_year": 2023,
+    "brand": "Alshrouq",
+    "category": "books"
+  },
+  {
+    "name": "science_book",
+    "price": 100,
+    "model_year": 2022,
+    "brand": "Dawen",
+    "category": "books"
+  },
+  {
+    "name": "novel",
+    "price": 150,
+    "model_year": 2016,
+    "brand": "\u0639\u0635\u064a\u0631 \u0627\u0644\u0643\u062a\u0628",
+    "category": "books"
+  },
+  {
+    "name": "racket",
+    "price": 60,
+    "model_year": 2022,
+    "brand": "ssss",
+    "category": "sports"
+  },
+  {
+    "name": "rope",
+    "price": 30,
+    "model_year": 2021,
+    "brand": "hhhh",
+    "category": "sports"
+  },
+  {
+    "name": "karate suit",
+    "price": 200,
+    "model_year": 2020,
+    "brand": "uuuuuu",
+    "category": "sports"
+  }
+]
